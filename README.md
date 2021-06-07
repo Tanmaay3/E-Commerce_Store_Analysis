@@ -1,5 +1,8 @@
 ## E-Commerce_Store_Analysis
 
+#### Overview
+Customer Segmentation is fundamental to every business, It allows business to provide targeted product marketing. The retail industry is no different. To be on par with the competition, an UK based online retail company wants to understand their customers buying preferences in order to pinpoint their marketing strategy and to deepen customer loyalty. To achieve the above goals we analyzed the company’s transactional dataset to create segments based on the customer’s purchase history.
+
 #### Objective: 
 Identify customer segments based on the overall buying behaviour of the client
 
