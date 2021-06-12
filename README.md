@@ -7,7 +7,7 @@ Customer Segmentation is fundamental to every business, It allows business to pr
 Identify customer segments based on the overall buying behaviour of the client
 
 #### Outcome: 
-Create an unsupervised model that generates the optimum number of segments for the customer base
+An unsupervised model that generates the optimum number of segments for the customer base
 
 #### Success Criteria: 
 Segments generated can be interpreted and transposed into business actions
